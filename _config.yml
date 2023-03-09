@@ -1,0 +1,30 @@
+title: My Resume
+description: My personal resume website
+
+# Set the theme to use (optional)
+theme: jekyll-theme-cayman
+
+# Exclude files from being processed by Jekyll
+exclude:
+  - README.md
+
+# Permalinks configuration
+permalink: /:title/
+
+# Set up navigation links
+navbar_links:
+  Home: /
+  Resume: /resume
+
+# Set up the pages to include
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Set up the page-specific configuration
+resume:
+  title: "My Resume"
+  description: "My personal resume"
