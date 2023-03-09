@@ -5,7 +5,8 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-        WELL MAYBE THIS WIL WORK
+      {% capture resume_content %}{% include resume.md %}{% endcapture %}
+      {{ resume_content | markdownify }}
     </div>
   </div>
 </div>
