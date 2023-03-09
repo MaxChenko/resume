@@ -7,8 +7,3 @@ theme: jekyll-theme-cayman
 # Excludes read me file
 exclude:
   - README.md
-
-# Set up the page-specific configuration
-resume:
-  title: "My Resume"
-  description: "My personal resume"
