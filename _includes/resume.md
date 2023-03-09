@@ -1,5 +1,3 @@
-<div style = "text-align: center">
-
 >  In this style, the resume starts with a blockquote, where
 >  you can briefly list your specialties, or include a salient
 >  quote. Ending a line with a backslash forces a line break.
@@ -91,5 +89,3 @@ Extra Section, Call it Whatever You Want
 * Other sort of impressive-sounding thing you did
 
 ----
-
-</div>
