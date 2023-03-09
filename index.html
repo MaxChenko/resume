@@ -1,9 +1,5 @@
 ---
 layout: default
 ---
-
-<div style = "text-align: center"></div>
-  {% capture resume_content %}{% include resume.md %}{% endcapture %}
-  {{ resume_content | markdownify }}
-</div>
-
+{% capture resume_content %}{% include resume.md %}{% endcapture %}
+{{ resume_content | markdownify }}
