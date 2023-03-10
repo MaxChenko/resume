@@ -1,91 +1,80 @@
-> In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-----
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
 ----------
 
-**Your Most Recent Work Experience:**
+## Relevant Work Experience
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+----------
 
-* First item
+**Software Developer | Pollard Banknote Ltd.**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**September 2022 – December 2022**
 
-**That Other Job You Had**
+- Resolved UI resolution bugs to improve the overall user experience.
+- Increased back-end service speed by optimizing payloads for efficient data transfer.
+- Fixed an issue with incorrect datetime time zone being fetched from the back end.
+- Designed and implemented a new export PDF function to provide users with easily accessible data from the front-end.
 
-Also with a short description.
 
-Technical Experience
---------------------
+**Programmer/Analyst | AAFC (Agriculture and Agri-Food Canada)**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**January 2022 – April 2022**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+- Developed dynamic filters for a finance page to sort and display relevant data in real-time.
+- Utilized SQL to collect data from the back-end and pass it to the front-end for efficient and accurate reporting.
+- Wrote a JavaScript script to read a CSV file and generate SQL code that ensures referential integrity.
+- Created a comprehensive report using Jaspersoft to summarize acquired information from the database.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+----------
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Projects
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+----------
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**Imber | Mobile Game**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Developed and published an arcade-style mobile game using Unity Game Engine.
+- Enhanced player experience with custom particle effects.
+- Wrote scripts for game aspects such as menus, enemy movement, game logic, progression, user input, player movement, enemy spawning, power-up spawning, collision handling, and UI.
+- Implemented an optional monetization system through in-game advertisements.
+- [Link to the store page](https://play.google.com/store/apps/details?id=com.ForgottenRealms.Imber)
 
-[ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+**Space Shooter Clone | Computer Graphics 1 Project**
 
-* Human Languages:
+- Designed a particle system to manage object position, velocity, and behavior.
+- Developed a function to smoothly transition between orthographic and perspective views.
+- Used particle system to simulate explosions upon destruction.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+----------
 
-* Random tidbit
+## Technical Skills
 
-* Other sort of impressive-sounding thing you did
+----------
 
-----
+- Java
+- C#
+- Vue.js Framework
+- C++
+- Groovy
+- React Framework
+- C
+- HTML/CSS
+- Android Studio
+- Python
+- SQL
+- Unity Game Engine
+- JavaScript
+- Git/GitHub
+- Jaspersoft Studio
+
+----------
+
+## Education
+
+----------
+
+**Bachelor of Computer Science, Honours Co-op**
+
+**University of Manitoba**
+
+**September 2019 – April 2024**
