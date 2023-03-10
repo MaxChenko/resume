@@ -124,4 +124,14 @@ Special aknowledgement of Andrew Etter, the author of Modern Technical Writing: 
 
 ## **FAQs**
 
-### 
+### **What is Github Pages?**
+
+Github Pages is a static site hosting service provided by Github. It allows you to host static sites directly from the files in one of your repositories.
+
+### **Do I need to know markdown?**
+
+You do not need to know the full extent of markdown to follow this tutorial, but you are encouraged to consult the resources to obtain a basic grasp and create a sample copy of your resume in markdown format.
+
+### **What is Jekyll?**
+
+Jekyll is a static site generator. It is built into Github Pages and can be used with minimal knowledge of the tool.
