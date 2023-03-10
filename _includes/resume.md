@@ -5,7 +5,7 @@
 
 ----------
 
-**Software Developer | Pollard Banknote Ltd.**
+**Software Developer** | **Pollard Banknote Ltd.**
 
 **September 2022 – December 2022**
 
@@ -15,7 +15,7 @@
 - Designed and implemented a new export PDF function to provide users with easily accessible data from the front-end.
 
 
-**Programmer/Analyst | AAFC (Agriculture and Agri-Food Canada)**
+**Programmer/Analyst** | **AAFC (Agriculture and Agri-Food Canada)**
 
 **January 2022 – April 2022**
 
@@ -30,7 +30,7 @@
 
 ----------
 
-**Imber | Mobile Game**
+**Imber** | **Mobile Game**
 
 - Developed and published an arcade-style mobile game using Unity Game Engine.
 - Enhanced player experience with custom particle effects.
@@ -39,7 +39,7 @@
 - [Link to the store page](https://play.google.com/store/apps/details?id=com.ForgottenRealms.Imber)
 
 
-**Space Shooter Clone | Computer Graphics 1 Project**
+**Space Shooter Clone** | **Computer Graphics 1 Project**
 
 - Designed a particle system to manage object position, velocity, and behavior.
 - Developed a function to smoothly transition between orthographic and perspective views.
