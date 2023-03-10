@@ -2,7 +2,7 @@
 
 ## **Purpose**
 
-The purpose of this README is to demonstrate how to correctly host a *markdown* format resume on *Github pages*.
+The purpose of this README is to demonstrate how to correctly host a *markdown* format resume on *Github pages*, using a *Jekyll* theme. Please carefully consider the prerequisites prior to starting on the instruction set, and read a follow each step carefully. 
 
 ---------
 
@@ -94,6 +94,8 @@ The below instruction set will demonstrate how to host your markdown resume on G
 
     18. Navigate back to the Settings->Pages and press the 'Visit Site' button near the top
 
+![Instruction on how to load page](visuals/gif1.gif)
+
     19. Congratualations! You have successfully published an online resume!
 
 ---------
@@ -101,7 +103,6 @@ The below instruction set will demonstrate how to host your markdown resume on G
 ## **Authors and Acknowledgements**
 
 README written by *Maxim Omelchenko*
-
 
 ---------
 
